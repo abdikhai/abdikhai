@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hello Everyone! 👋
 
+Allow me to introduce myself, my name is **Khairul Abdi**.<br>
+
+🔭 Currently, I am studying Computer Science at Medan State University.<br>
+🌱 I'm currently studying Machine Learning at Bangkit Academy in 2024.<br>
 <!--
 **abdikhai/abdikhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
