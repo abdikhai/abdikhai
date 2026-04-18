@@ -1,10 +1,13 @@
 # Hello Everyone! 👋
+Allow me to introduce myself, my name is **Khairul Abdi**.
 
-Allow me to introduce myself, my name is **Khairul Abdi**.<br>
-
-🔭 Currently, I am studying Computer Science at Medan State University.<br>
-🌱 I'm currently studying Machine Learning at Bangkit Academy in 2024.<br>
-
+🎓 Fresh Graduate in Computer Science from Universitas Negeri Medan (GPA: 3.90/4.00)<br>
+🤖 Machine Learning enthusiast | Top 10% Bangkit 2024 by Google, Goto & Traveloka<br>
+💼 Open to work as Data Scientist / ML Engineer<br>
+📊 Experienced in end-to-end ML pipeline, data forecasting & dashboard development<br>
+🏃 Passionate about health tech — because I live an active lifestyle myself<br>
+📫 Reach me at: abdikhairul71@gmail.com<br>
+🌐 Portfolio: https://abdikhai.vercel.app
 
 ### Github Statistic
 <p align="left">
@@ -13,17 +16,3 @@ Allow me to introduce myself, my name is **Khairul Abdi**.<br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
 </a>
 </p>
-<!--
-**abdikhai/abdikhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
